@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm **Phuoc Nguyen**. A **Full Stack Web Developer** having specialization in **back end & front end development**. I have 9+ years of experience in **Web Development**. I have Backend skills in C#, ASP.NET CORE.
 <!--
 **ndp90/ndp90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
